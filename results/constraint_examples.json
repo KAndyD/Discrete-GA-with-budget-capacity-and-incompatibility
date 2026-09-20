@@ -1,0 +1,72 @@
+[
+  {
+    "name": "empty",
+    "selected": [],
+    "utility": 0,
+    "violation": 0,
+    "feasible": true
+  },
+  {
+    "name": "single",
+    "selected": [
+      0
+    ],
+    "utility": 54,
+    "violation": 0,
+    "feasible": true
+  },
+  {
+    "name": "all",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "utility": 2076,
+    "violation": 1427,
+    "feasible": false
+  },
+  {
+    "name": "conflict_pair",
+    "selected": [
+      0,
+      20
+    ],
+    "utility": 91,
+    "violation": 1,
+    "feasible": false
+  }
+]

@@ -1,0 +1,8 @@
+test_constraints_and_repair (test_model.TestEquipment.test_constraints_and_repair) ... ok
+test_runs_feasible_reproducible_equal_budget (test_model.TestEquipment.test_runs_feasible_reproducible_equal_budget) ... ok
+test_swap_preserves_cardinality (test_model.TestEquipment.test_swap_preserves_cardinality) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.061s
+
+OK
