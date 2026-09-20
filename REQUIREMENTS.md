@@ -8,7 +8,6 @@
 | Исходники и инструкция | `*.py`, `README.md` |
 | Воспроизводимость | `config.json`, фиксированные seed, `used_config.json` |
 | Отчёт, постановка, параметры | `REPORT.md` |
-| Графическое описание | `FLOW.md`, схема включена в отчёт |
 | Серия запусков и статистика | `runs.csv`, `summary.csv`, 20 на метод |
 | Проверка | `tests/`, `results/tests.log` |
 | Не менее 30 объектов | 36 модулей, `data/equipment.json` |
@@ -17,4 +16,3 @@
 | Два оператора | `repair_flip` и `repair_swap` |
 | Baseline и лучшее решение | `random_repair`, `selected_equipment.csv` |
 
-Отчёт предоставляется в Markdown, что прямо разрешено методичкой.
