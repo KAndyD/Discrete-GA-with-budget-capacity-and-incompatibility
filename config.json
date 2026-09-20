@@ -1,0 +1,11 @@
+{
+  "population": 64,
+  "generations": 63,
+  "runs": 20,
+  "seed": 261400,
+  "data_seed": 5071426,
+  "budget": 190,
+  "power_limit": 150,
+  "crossover_probability": 0.9,
+  "mutation_probability": 0.027777777777777776
+}
